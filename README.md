@@ -1,4 +1,4 @@
-# Exchange Turkey GO CLI
+# Exchange Rate in Turkey with GO CLI
 
 It shows the dollar and euro exchange rates in Turkey. Developed with the go language and used cobra CLI.
 Data information is provided from the doviz.com site.
